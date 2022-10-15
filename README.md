@@ -6,8 +6,12 @@
 - Toastmaster
 - Ordained Minister of the Universal Life Church
 - Data Management Professional 
-- 
-- from Monroe Michigan.
+- YouTube Content Creator
+- TikTok Influencer
+- Instagram Model
+- Twitter Professional
+- Website Guy
+- from Monroe Michigan
 
 <!---
 jasonaltenburg/jasonaltenburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
