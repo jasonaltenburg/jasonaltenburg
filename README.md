@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jasonaltenburg
 - I am a 
-- Shared Services Software Developer
+- Senior Manager of Business Intelligence at RXA
 - Business Analyst
-- Domo Sensei
+- Domo Sensei and Innovator
 - Toastmaster
 - Ordained Minister of the Universal Life Church
 - Data Management Professional 
