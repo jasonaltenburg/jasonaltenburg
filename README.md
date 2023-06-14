@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @jasonaltenburg
-- I am a 
-- Senior Manager of Business Intelligence at RXA
+👋 Hi, I’m @jasonaltenburg
+I am a:
+- Senior Manager of Business Intelligence with OneMagnify @ RXA
 - Business Analyst
 - Domo Sensei and Innovator
 - Toastmaster
+- Vice President of Public Relations for Monroe Toastmasters Club
 - Ordained Minister of the Universal Life Church
 - Data Management Professional 
 - YouTube Content Creator
