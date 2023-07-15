@@ -1,7 +1,7 @@
 👋 Hi, I’m @jasonaltenburg
 
 I am a:
-- Senior Manager of Business Intelligence with OneMagnify @ RXA
+- Senior Manager of Business Intelligence with RXA @ OneMagnify
 - Business Analyst
 - Domo Sensei and Innovator
 - Toastmaster
