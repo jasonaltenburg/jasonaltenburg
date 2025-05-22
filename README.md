@@ -6,6 +6,7 @@ I am a:
 - Domo Sensei and Innovator
 - Toastmaster
 - Vice President of Public Relations for Monroe Toastmasters Club
+- Past Area Director of I-3 in District 28 for Toastmasters International
 - Ordained Minister of the Universal Life Church
 - Data Management Professional 
 - YouTube Content Creator
